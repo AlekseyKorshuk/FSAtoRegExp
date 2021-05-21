@@ -35,8 +35,9 @@ E5: FSA is nondeterministic
 Kleene’s Algorithm
 ******************
 
-.. |ImageLink| image:: /1.png
-.. |ImageLink| image:: /2.png
+.. image:: 1.png
+
+.. image:: 2.png
 
 Denote ∅ as {}
 
